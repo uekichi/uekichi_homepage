@@ -1,0 +1,13 @@
+body {
+  max-width: 650px;
+  margin: auto;
+  padding: 50px 20px;
+  background-color: azure;
+
+}
+
+img {
+  float: left;
+  margin: auto;
+  padding: 10px 20px;
+}

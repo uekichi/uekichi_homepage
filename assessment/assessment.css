@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(107, 60, 216);
+  color: #FDFFFF;
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {
+  color: yellow;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337AB7;
+  border-width: 5px;
+  color: #FDFFFF;
+
+}
+
+input {
+  height: 30px;
+}

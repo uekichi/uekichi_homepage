@@ -1,0 +1,9 @@
+#mycanvas {
+  border: 10px solid #999;
+  cursor: crosshair;
+}
+
+.thumbnail {
+  border: 2px solid #999;
+  margin-right: 5px;
+}
