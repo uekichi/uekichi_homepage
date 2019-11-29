@@ -30,7 +30,7 @@ a:hover {
 }
 
 a.button {
-  background: #185da8;
+  background: #bad7f7;
   border-radius: 5px;
   display: block;
   font-size: 30px;
@@ -55,7 +55,7 @@ a.button:hover {
 }
 
 #gameCanvas {
-  background: #001022;
+  background: #b1bbc7;
 }
 
 #gameUI {
