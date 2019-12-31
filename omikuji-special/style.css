@@ -8,8 +8,8 @@
   width: 1280px;
   height: 800px;
   margin: 0 auto;
-  background-image: url(images/background.png);
-  /* background-size: 1280px 80px; */
+  background-image: url(images/background-1.png);
+  background-size: 1280px 800px;
   position: relative;
   overflow: hidden;
 }
@@ -118,7 +118,7 @@
   top: 50%;
   transform: translateY(-50%);
   text-align: center;
-  color: #E8556A;
+  color: rgb(45, 18, 226);
   z-index: 5;
   font-size: 72px;
   font-family: "Nico Moji";
@@ -126,9 +126,6 @@
 
 /* 戻るボタン */
 
-#result-btn {
-  
-}
 
 #btn-back {
   position: absolute;
